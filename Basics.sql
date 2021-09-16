@@ -1,4 +1,4 @@
-
+-- This showcases some basic sql skills - creating, connecting and altering tables, withdrawing data using constraints, sorting, joins, subqueries, triggers
 
 -- creating multiple connected tables to work with 
 
